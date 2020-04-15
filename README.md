@@ -5,12 +5,6 @@
 下载地址：https://nodejs.org/zh-cn/download/ (需添加环境变量)  
 检查是否安装成功：node -v｜npm -v （显示版本号）  
 
-## 如何开发
-
-```sh
-$ npm run dev
-```
-
 ## 配置说明
 列表 https://github.com/daniel-dx/ncadmin-core/blob/master/config-list.md  
 全局 https://github.com/ncform/ncform/blob/master/CONFIG.md  
@@ -40,4 +34,10 @@ $ yo nca:add-page
 
 ```
 $ yo nca:add-modal
+```
+
+## 如何开发
+
+```sh
+$ npm run dev
 ```
