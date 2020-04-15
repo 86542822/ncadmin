@@ -36,3 +36,8 @@ $ yo nca:add-module
 ```
 $ yo nca:add-page
 ```
+4. 生成子模块页面
+
+```
+$ yo nca:add-modal
+```
