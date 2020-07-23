@@ -37,7 +37,21 @@ $ yo nca:add-modal
 ```
 
 ## 如何开发
-
+0. 安装依赖包
+```  
+$ npm i
+```  
+1. nginx下载 https://nginx.org/en/download.html
+2. 替换nginx.conf配置文件，并启动nginx
+```sh
+$ start nginx
+```  
+3. 启动后端服务
+```sh
+$ python run.py
+```  
+4. 启动前端服务 
 ```sh
 $ npm run dev
 ```
+5. 访问localhost即可
