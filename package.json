@@ -13,7 +13,7 @@
   "dependencies": {
     "@danieldx/ncadmin-core": "^1.4.13",
     "ace-builds": "^1.2.9",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "element-ui": "^2.4.0",
     "lodash-es": "^4.17.4",
     "md5": "^2.2.1",
