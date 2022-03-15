@@ -15,7 +15,7 @@
     "ace-builds": "^1.2.9",
     "axios": "^0.17.1",
     "element-ui": "^2.4.0",
-    "lodash-es": "^4.17.4",
+    "lodash-es": "^4.17.21",
     "md5": "^2.2.1",
     "vue": "^2.0.1",
     "vue-router": "^2.0.1",
